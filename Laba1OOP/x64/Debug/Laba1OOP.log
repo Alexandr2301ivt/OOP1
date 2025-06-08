@@ -1,0 +1,15 @@
+﻿  Main.cpp
+  Potion.cpp
+C:\Users\Александр\source\repos\Laba1OOP\Laba1OOP\Potion.h(34,22): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Potion.cpp")
+  
+C:\Users\Александр\source\repos\Laba1OOP\Laba1OOP\Potion.h(35,24): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Potion.cpp")
+  
+C:\Users\Александр\source\repos\Laba1OOP\Laba1OOP\Potion.h(46,22): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Potion.cpp")
+  
+C:\Users\Александр\source\repos\Laba1OOP\Laba1OOP\Potion.h(47,24): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Potion.cpp")
+  
+  Создание кода...
